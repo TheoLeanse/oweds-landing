@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+.main {
+    margin: 25% auto 0;
+    max-width: 600px;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    color: white;
+    font-size: 2em; 
+}
+
+.title {
+    font-size: 5em; 
+}
+
+.excuse {
+    font-size: 1em; 
+}
