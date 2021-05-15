@@ -1,10 +1,14 @@
+html {
+    font-size: 12px;
+}
+
 body {
     background-color: black;
 }
 
 .main {
-    margin: 25% auto 0;
-    max-width: 600px;
+    margin: 10% auto;
+    max-width: 750px;
 }
 
 .text {
@@ -20,4 +24,12 @@ body {
 
 .excuse {
     font-size: 1em; 
+}
+
+.centred {
+    text-align: center;
+}
+
+.big {
+    font-size: 2em;
 }
